@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ULTIMATE RED TEAM PORT SCANNER v2
+PORT SCANNER 
 Interactive Menu | History | Custom Ports | Export | Zero deps
 Ethical use only — your lab, your rules.
 """
