@@ -2,34 +2,33 @@ Enhanced Multi-Protocol Scanner (mpscan)
 
 A dependency-free Python network reconnaissance tool built entirely with the Python standard library.
 
-**Features**
-* TCP port scanning
-Multi-protocol service enumeration
-Banner grabbing
-HTTP/HTTPS detection
-SSH detection
-FTP detection
-SMTP detection
-POP3 detection
-IMAP detection
-Telnet detection
-MySQL detection
-PostgreSQL identification
-MSSQL identification
-Redis enumeration
-SMB detection
-RDP detection
-Reverse DNS lookup
-TTL-based OS fingerprinting
-SOCKS4 proxy support
-SOCKS5 proxy support
-HTTP CONNECT proxy support
-JSON export
-CSV export
-XML export
-Styled HTML reports
-Rate limiting
-Connection jitter
-Lightweight vulnerability hints
+## Features
 
-The scanner supports HTTP/S, SSH, FTP, SMTP, POP3, IMAP, Telnet, MySQL, PostgreSQL, MSSQL, Redis, SMB, RDP and generic banner detection.
+- [x] TCP port scanning
+- [x] Multi-protocol service enumeration
+- [x] Banner grabbing
+- [x] HTTP/HTTPS detection
+- [x] SSH detection
+- [x] FTP detection
+- [x] SMTP detection
+- [x] POP3 detection
+- [x] IMAP detection
+- [x] Telnet detection
+- [x] MySQL detection
+- [x] PostgreSQL identification
+- [x] MSSQL identification
+- [x] Redis enumeration
+- [x] SMB detection
+- [x] RDP detection
+- [x] Reverse DNS lookup
+- [x] TTL-based OS fingerprinting
+- [x] SOCKS4 proxy support
+- [x] SOCKS5 proxy support
+- [x] HTTP CONNECT proxy support
+- [x] JSON export
+- [x] CSV export
+- [x] XML export
+- [x] Styled HTML reports
+- [x] Rate limiting
+- [x] Connection jitter
+- [x] Lightweight vulnerability hints
