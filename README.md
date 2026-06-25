@@ -3,7 +3,7 @@ Enhanced Multi-Protocol Scanner (mpscan)
 A dependency-free Python network reconnaissance tool built entirely with the Python standard library.
 
 **Features**
-TCP port scanning
+* TCP port scanning
 Multi-protocol service enumeration
 Banner grabbing
 HTTP/HTTPS detection
